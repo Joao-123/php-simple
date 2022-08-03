@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "practicas-angular-b",
+			"path": "..\\practicas-angular-b"
+		},
+		{
+			"name": "alcaldia_tareas",
+			"path": "..\\alcaldia_tareas"
+		},
+		{
+			"name": "Mysql",
+			"path": "..\\..\\Mysql"
+		},
+		{
+			"name": "foro",
+			"path": "..\\foro"
+		},
+		{
+			"name": "javascript-react-complejo",
+			"path": "..\\complejo\\javascript-react-complejo"
+		},
+		{
+			"name": "project-fredy",
+			"path": "..\\project-fredy"
+		},
+		{
+			"name": "php-fredy",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "php-fredy"
+	}
+}

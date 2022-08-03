@@ -4,6 +4,10 @@ https://code.tutsplus.com/es/tutorials/how-to-build-a-simple-rest-api-in-php--cm
 ## Para ver los datos:
 https://pruebas1.casadesenet.com/index.php/user/list?limit=20
 
+## Para instalar composer y laravel
+https://www.youtube.com/watch?v=lUrl7ESwgNI
+composer global require laravel/instaler
+
 ## Para revisar:
 ### Revisar API Restfull solo para una tabla
 https://gitlab.com/savila/api_rest_php
